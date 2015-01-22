@@ -1,0 +1,28 @@
+Minnie
+Software Developer
+35000
+5
+Donald
+Software Engineer
+25000
+1
+Pluto
+Project Manager
+75000
+11
+Mickey
+Project Manager
+50000
+7
+Daisy
+Software Engineer
+65000
+10
+Wilson
+Software Developer
+90000
+34
+Tigger
+Project Manager
+85000
+25
